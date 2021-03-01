@@ -14,4 +14,8 @@ describe('Triangles#triangle') do
     triangle3 = Triangle.new(3,4,5)
     expect(triangle3.triangle_type()).to(eq("scalene"))
   end
+  it("Determine if the object is not a triangle") do
+    triangle3 = Triangle.new(3,3,6)
+    expect(triangle3.triangle_type()).to(eq("not a triangle"))
+  end
 end
