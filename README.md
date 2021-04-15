@@ -5,9 +5,6 @@ Zack Rutledge, Mekinsie Callahan
 
 ### _This project was created solely for the education of the author(s) and is not in a complete or portfolio-ready state. It should not be considered representative of professional work._
 
-## Technologies Used
-* JavaScript
-
 ## Description
 
 This application checks to see if three inputs can create a triangle. If they do, it will return what type of triangle it is.  
